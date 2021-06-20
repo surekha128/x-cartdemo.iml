@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HotDealsTest"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.645">
+  <properties />
+  
+  
+            <testcase name="verifyBestSellersProductsArrangeByRates" time="2.424" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+                <testcase name="verifySaleProductsPriceArrangeLowToHigh" time="2.690" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+                <testcase name="verifyBestSellersProductsPriceArrangeHighToLow" time="3.027" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+                <testcase name="verifySaleProductsArrangeAlphabetically" time="2.925" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+                <testcase name="verifySaleProductsArrangeByRates" time="2.903" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+                <testcase name="verifyBestSellersProductsArrangeByZToA" time="4.676" classname="com.xcart.mobile.testsuite.HotDealsTest" />
+      
+</testsuite>

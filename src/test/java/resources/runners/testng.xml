@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite" verbose="1" >
+    <test name="HotDealsTest" >
+        <classes>
+            <class name="com.xcart.mobile.testsuite.HotDealsTest"></class>
+        </classes>
+    </test>
+    <test name="TopMenuTest">
+        <classes>
+            <class name="com.xcart.mobile.testsuite.TopMenuTest"></class>
+        </classes>
+    </test>
+    <test name="ShoppingTest">
+        <classes>
+            <class name="com.xcart.mobile.testsuite.ShoppingTest"></class>
+        </classes>
+    </test>
+</suite>
